@@ -49,9 +49,9 @@
 
 | Название | Описание | Технологии | Ссылка |
 |----------|----------|------------|--------|
-| **Explore With me** | Приложение для публикации и поиска мероприятий | Java 17, Spring Boot (MVC, Data JPA + Specification), PostgreSQL, Maven | [GitHub](https://github.com/GritsED/java-explore-with-me) |
-| **ShareIt** | Приложение для аренды и шеринга вещей между пользователями | Java 21, Spring Boot, PostgreSQL, MapStruct, REST, JPA, Maven, Checkstyle | [GitHub](https://github.com/GritsED/java-shareit) |
-| **Filmorate** | Backend-сервис рекомендаций фильмов на основе пользовательских оценок | Java 21, Spring Boot 3.3 (Web, JDBC, Validation), H2, Lombok, Logbook, JUnit 5 | [GitHub](https://github.com/GritsED/java-filmorate) |
+| **Events-search** | Приложение для публикации и поиска мероприятий | Java 17, Spring Boot (MVC, Data JPA + Specification), PostgreSQL, Maven | [GitHub](https://github.com/GritsED/java-explore-with-me) |
+| **Rental-items** | Приложение для аренды и шеринга вещей между пользователями | Java 21, Spring Boot, PostgreSQL, MapStruct, REST, JPA, Maven, Checkstyle | [GitHub](https://github.com/GritsED/java-shareit) |
+| **Movies-rating** | Backend-сервис рекомендаций фильмов на основе пользовательских оценок | Java 21, Spring Boot 3.3 (Web, JDBC, Validation), H2, Lombok, Logbook, JUnit 5 | [GitHub](https://github.com/GritsED/java-filmorate) |
 
 ---
 
